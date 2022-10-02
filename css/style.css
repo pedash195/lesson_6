@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+* {
+	margin: auto;
+	max-width: 810px;
+}
+
+.title {
+	Font-family: "Lato-Black";
+	font-weight: 900;
+	color: rgba(30, 33, 44, 1);
+    Font-size: 46px;
+	font-style: normal;
+    Line-height: 59.8px;
+    margin: 45px 0px 90px 0px;
+}
+
+.img {
+	display: inline-block;
+	margin-bottom: 60px;
+	border-radius: 4px;
+}
+
+.text {
+	font-family: "Lato-Bold";
+	font-weight: 700;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 30px;
+	color: rgba(30, 33, 44, 1);
+	margin-bottom: 24px;
+}
+
+.one {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	color: rgba(66, 69, 81, 1);
+	line-height: 25.6px;
+	margin-bottom: 25.6px;
+}
+
+.two {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	color: rgba(66, 69, 81, 1);
+	line-height: 25.6px;
+	margin-bottom: 48px;
+}
+
+.three {
+	font-family: "Lato-Bold";
+	font-weight: 700;
+	font-size: 20px;
+	font-style: normal;
+	color: rgba(30, 33, 44, 1);
+	line-height: 30px;
+	padding-left: 58px;
+	margin-bottom: 48px;
+}
+
+.five {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	color: rgba(66, 69, 81, 1);
+	line-height: 25.6px;
+	margin-bottom: 24px;
+	
+}
+
+.six > li {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	color: rgba(66, 69, 81, 1);
+	line-height: 25.6px;
+	margin-bottom: 4px;
+    padding-left: 32px;
+	width: 600px;
+	display: inline-block;
+}
+
+.five-one {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	color: rgba(66, 69, 81, 1);
+	line-height: 25.6px;
+	margin-bottom: 24px;
+	margin-top: 24px;
+}
+
+.color {
+	background-color: rgb(235, 221, 221);
+	border-radius: 20px;
+}
+
+.span {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	text-align: justify;
+	color: rgba(66, 69, 81, 1);
+	background-color: rgb(190, 248, 215);
+	display: inline-block;
+	padding: 15px;
+	border-radius: 10px;
+	max-width: 365px;
+	max-height: 110px;
+	overflow: auto;
+	margin: 24px 12px 24px 24px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.336);
+}
+
+.span-one {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	text-align: justify;
+	color: rgba(66, 69, 81, 1);
+	background-color: rgb(190, 248, 215);
+	display: inline-block;
+	padding: 15px;
+	border-radius: 10px;
+	max-width: 365px;
+	max-height: 110px;
+	overflow: auto;
+	margin: 24px 24px 24px 12px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.336);
+}
+
+.block {
+	font-family: "Lato-Regular";
+	font-weight: 400;
+	font-size: 20px;
+	color: aliceblue;
+	font-style: oblique;
+	text-decoration: underline;
+	text-indent: 20px;
+	text-align: justify;
+    background-color: rgb(190, 190, 190);
+	padding: 15px;
+	border-radius: 20px;
+	border: 5px solid rgb(190, 248, 215);
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.336);
+	margin: 0px 24px 24px 24px;
+}
+
+h2 {
+	background-color: rgb(238, 238, 252);
+	Font-family: "Lato-Black";
+	font-weight: 900;
+	color: rgb(11, 12, 17);
+    Font-size: 46px;
+	font-style: normal;
+	text-align: center;
+	text-transform: uppercase;
+	width: 500px;
+	box-shadow: 5px 5px 5px #01010256;
+	border-radius: 30px;
+	padding: 30px;
+	margin: 30px;
+}
+
+h2:hover{
+	margin-top: 3px;
+	box-shadow: 0 -2px 0 #00000056;
+}
